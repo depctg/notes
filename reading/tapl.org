@@ -1,0 +1,8 @@
+* notes on reading *Types and Programing Languages*
+** TODO Untyped lambda calculus[2/4]
+- [ ] values are abstractions (abstruction value)
+- [X] another todo
+- [X] Fix point combinator
+- [ ] Yet another todo
+** another content
+

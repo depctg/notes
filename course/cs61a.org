@@ -1,0 +1,14 @@
+* SICP
+** basic tail rec
+
+devide the function with 2 basic parts
+- trunk
+- tail rec call
+baiscally call trunk many times to update arguments for tail call.
+** target language repretensen
+*** mate language
+*** target languages
+** abstract of continuation
+
+Do not contains the 
+
